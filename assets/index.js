@@ -2,7 +2,7 @@
 function init() {
     //import node modules 
     const inquirer = require(`inquirer`);
-    const fs = require(`fs`)
+    const fs = require(`fs`);
     const generate = require('./utils/generateMarkdown.js');
     const path = require('path');
 
