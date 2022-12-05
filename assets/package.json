@@ -1,0 +1,26 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eileen Ma",
+  "license": "ISC",
+  "dependencies": {
+    "fs-js": "^1.0.6",
+    "generator": "^1.0.1",
+    "inquirer": "^8.2.5",
+    "markdown-utils": "^1.0.0",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMA1970/commandLineREADME.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EMA1970/commandLineREADME/issues"
+  },
+  "homepage": "https://github.com/EMA1970/commandLineREADME#readme",
+  "description": ""
+}
