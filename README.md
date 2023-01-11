@@ -20,16 +20,7 @@
   'npm i path'
   
   ## Contributing
-  N/A
-  
-  ## Tests
-  N/A
-  
-  ## License
+  Eileen Ma 
    
   
-  ## GitHub
-  EMA1970
   
-  ## E-mail
-  eileem1970@gmail.com
